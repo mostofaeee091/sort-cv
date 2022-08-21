@@ -1,6 +1,6 @@
 [
     {
         "name": "webapp1",
-        "imageUri": "715238903677.dkr.ecr.us-east-1.amazonaws.com/shawoncloud:latest"
+        "imageUri": "888276918709.dkr.ecr.ap-south-1.amazonaws.com/sort-cv:latest"
     }
 ]
